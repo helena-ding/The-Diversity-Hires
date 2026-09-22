@@ -14,7 +14,7 @@ We aim to bring the Space Invaders remake to life visually — making every expl
 | Role | Member | Responsibility |
 |---|---|---|
 | Team Leader | Aymeric GERON | Coordinates tasks, tracks progress, communicates with other teams, manages the GitHub board/PRs |
-| Particle Effects Lead | Junlin Chon | Builds and tunes explosion particle systems |
+| Particle Effects Lead | Junlin Chan | Builds and tunes explosion particle systems |
 | Color & Shader Artist | Helena Ding | Defines color palettes, lighting/flash effects, shader-based visuals |
 | Background Artist | ZHUMAKHMETOV MIKHAIL | Designs and implements background art/parallax scrolling |
 | UI/Icon Designer | Oluwadamilola Tinubu | Creates new icons and visual assets used across the game |
