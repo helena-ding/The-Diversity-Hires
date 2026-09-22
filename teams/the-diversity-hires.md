@@ -62,7 +62,7 @@ Our team is responsible for the **Visual Effect System** — all non-audio visua
 • Make the background feel slightly more intense on higher levels to reinforce rising difficulty.
 • Example: the background is calm and slow on early levels, and noticeably faster and busier on later, harder levels.
 
-4. **Icon Set** — Create additional icons needed across the UI (e.g., lives, score, power-ups, pause/settings).
+4. **Icon Set**
 *4.1 UI Icons*
 • Design a small icon for the score display instead of using plain text alone.
 • Design a distinct life/heart icon separate from the player's ship sprite, so the HUD doesn't reuse gameplay art.
